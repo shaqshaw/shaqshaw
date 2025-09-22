@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Shaquille 🚀
 
-<!--
-**shaqshaw/shaqshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little playground on the internet.  
 
-Here are some ideas to get you started:
+## What you’ll find here:
+- 🤖 Bots doing things that I don’t want to do
+- 📈 Trading tools that *may or may not* predict the future  
+- 🌍 Web apps that try to make life a little smoother
+- 🧰 Sandbox projects to explore different technologies
+- 🏡 Real estate side-quests (because why not?)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some projects are polished, others are rough sketches, but all of them tell a story of what I’m exploring and where I’m going.  
+
+---
+
+**Current Quest:** Building systems that bring humans and technology into better alignment.  
