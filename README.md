@@ -32,4 +32,4 @@ Some projects are polished, others are rough sketches, but all tell a story of w
 
 ---
 
-✨ **Current Quest:** Building tech that helps youth stay in alignment. 
+✨ **Current Quest:** Building tech that helps people and businesses stay in alignment. 
