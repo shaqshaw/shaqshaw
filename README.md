@@ -26,7 +26,7 @@ Some projects are polished, others are rough sketches, but all tell a story of w
 ---
 
 ## 📫 Let’s connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaquilleshaw)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shaquilleshaw](https://www.linkedin.com/in/shaquille-augustus-shaw/))  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shaqaugustus)  
 [![GitHub followers](https://img.shields.io/github/followers/shaqshaw?label=Follow&style=social)](https://github.com/shaqshaw)  
 
